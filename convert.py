@@ -1,3 +1,7 @@
+# [WARNING] can't convert large file
+# dependency:
+#  - pydub (lib)
+#    - ffmpeg (exe)
 from pydub import AudioSegment
 from main import get_filenames
 from pprint import pprint

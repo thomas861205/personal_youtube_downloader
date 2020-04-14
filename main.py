@@ -2,7 +2,6 @@
 # ------------------------------------------
 # - filename comparison somewhat bugged
 # - deal with songs in the playlist that is set to private or deleted or restricted from certain region
-# .webm -> .mp3
 
 from pytube import YouTube, Playlist
 from pprint import pprint
